@@ -1,0 +1,55 @@
+    1  git config --global user.name "Oksana Balashova"
+    2  git config --global user.email bmv3555@gmail.com
+    3  git clone https://github.com/OksanaGOIT2024/HW_10.git
+    4  touch text_ignore.txt
+    5  touch text_ignore.txt
+    6  nano .gitignore
+    7  cd
+    8  -c && rm ~/.bash_history
+    9  clear
+   10  git config --global user.name "Oksana Balashova"
+   11  200~git config --global user.email bmv3555@gmail.com
+   12  git config --global user.email bmv3555@gmail.com
+   13  clear
+   14  git config --global user.name "Oksana Balashova"
+   15  git config --global user.email bmv3555@gmail.com
+   16  git clone https://github.com/OksanaGOIT2024/HW_10.git
+   17  touch text_ignore.txt
+   18  cd
+   19  cd HW_10
+   20  clear
+   21  touch text_ignore.txt
+   22  nano .gitignor
+   23  git status
+   24  git add .gitignore
+   25  git status
+   26  git commit -m "New file created"
+   27  touch main_test.txt
+   28  git add
+   29  git add main_test.txt
+   30  git commit -m "New file created"
+   31  git checkout -b develop
+   32  touch develop_test.txt
+   33  git add develop_test.txt
+   34  git commit -m "New file created"
+   35  git status
+   36  git checkout develop
+   37  git status
+   38  touch develop_test.txt
+   39  git add develop_test.txt
+   40  git commit -m "New file created"
+   41  nano develop_test.txt
+   42  git status
+   43  git add develop_test.txt
+   44  git commit -m "File changes"
+   45  git checkout main
+   46  git merge develop main
+   47  git checkout main
+   48  git merge develop
+   49  git log
+   50  history>command_list.csv
+   51  git add.
+   52  git commit -m "All changes"
+   53  git push
+   54  git push
+   55  history>command_list.csv
